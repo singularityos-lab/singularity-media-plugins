@@ -1,0 +1,19 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="ly_page" x1="56" y1="12" x2="56" y2="112" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3e8f2"/></linearGradient>
+<radialGradient id="ly_note" cx="88" cy="84" r="32" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a8f0ff"/><stop offset="0.6" stop-color="#4fb6f0"/><stop offset="1" stop-color="#2a74d0"/></radialGradient>
+<filter id="ly_sh" x="-20%" y="-20%" width="140%" height="150%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="3" stdDeviation="3.5" flood-color="#1d2a44" flood-opacity="0.4"/></filter>
+<filter id="ly_lift" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="2.5" stdDeviation="2.5" flood-color="#0b2a55" flood-opacity="0.5"/></filter>
+</defs>
+<g filter="url(#ly_sh)">
+<path d="M22 20 A8 8 0 0 1 30 12 H76 L96 32 V104 A8 8 0 0 1 88 112 H30 A8 8 0 0 1 22 104 Z" fill="url(#ly_page)"/>
+<path d="M76 12 V26 A6 6 0 0 0 82 32 H96 Z" fill="#c9d3e6"/>
+<path d="M34 40 H72 M34 52 H80 M34 64 H66 M34 76 H58" stroke="#8a97b3" stroke-width="5" stroke-linecap="round"/>
+<path d="M34 52 H80" stroke="#4f8ff0" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g filter="url(#ly_lift)">
+<circle cx="90" cy="88" r="27" fill="white"/>
+<circle cx="90" cy="88" r="24" fill="url(#ly_note)"/>
+<path d="M96 72 V96.5 A6.5 6.5 0 1 1 91 90.2 V78 L84 79.6 V99 A6.5 6.5 0 1 1 79 92.7 V74.5 Z" fill="white"/>
+</g>
+</svg>

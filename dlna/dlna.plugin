@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-dlna
+Name=Media Servers
+Description=Music and videos from DLNA and UPnP media servers on your network
+Icon=network-workgroup
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music;dev.sinty.videos
+X-Singularity-Gettext-Domain=singularity-media-plugins

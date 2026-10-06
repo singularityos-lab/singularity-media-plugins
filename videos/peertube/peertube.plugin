@@ -1,0 +1,8 @@
+[Plugin]
+Module=videos-peertube
+Name=PeerTube
+Description=Search PeerTube instances and play their videos
+Icon=network-workgroup-symbolic
+X-Singularity-App=dev.sinty.videos
+X-Singularity-Host=dev.sinty.videos
+X-Singularity-Gettext-Domain=singularity-media-plugins

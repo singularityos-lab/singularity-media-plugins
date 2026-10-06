@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-listenbrainz
+Name=ListenBrainz
+Description=Record the songs you listen to in your ListenBrainz history
+Icon=singularity-account-listening
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

@@ -1,0 +1,207 @@
+{
+ "total": 24141,
+ "data": [
+  {
+   "id": 23435,
+   "uuid": "3f6a4d43-4f6d-4f98-becd-b5aa629a0fe0",
+   "shortUUID": "8QbKZXJmwdaAjgPLtv9tqU",
+   "url": "https://tube.tchncs.de/videos/watch/3f6a4d43-4f6d-4f98-becd-b5aa629a0fe0",
+   "name": "Learn JavaScript - Full Course for Beginners",
+   "category": {
+    "id": 13,
+    "label": "Education"
+   },
+   "licence": {
+    "id": null,
+    "label": "Unknown"
+   },
+   "language": {
+    "id": null,
+    "label": "Unknown"
+   },
+   "privacy": {
+    "id": 1,
+    "label": "Public"
+   },
+   "nsfw": false,
+   "nsfwFlags": 0,
+   "nsfwSummary": null,
+   "truncatedDescription": "Sample description.",
+   "description": "Sample description.",
+   "isLocal": false,
+   "duration": 12403,
+   "aspectRatio": null,
+   "views": 670,
+   "viewers": 0,
+   "downloads": 326,
+   "likes": 1,
+   "dislikes": 0,
+   "thumbnailPath": "/lazy-static/thumbnails/49f320f8-b71b-4596-a6ed-8c048cac2a4e.jpg",
+   "previewPath": "/lazy-static/thumbnails/49f320f8-b71b-4596-a6ed-8c048cac2a4e.jpg",
+   "thumbnails": [
+    {
+     "height": 122,
+     "width": 223,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://framatube.org/lazy-static/thumbnails/49f320f8-b71b-4596-a6ed-8c048cac2a4e.jpg"
+    }
+   ],
+   "embedPath": "/videos/embed/8QbKZXJmwdaAjgPLtv9tqU",
+   "createdAt": "2021-03-17T22:06:15.333Z",
+   "updatedAt": "2026-10-05T08:00:24.376Z",
+   "publishedAt": "2021-03-17T22:06:15.333Z",
+   "originallyPublishedAt": "2018-12-09T23:00:00.000Z",
+   "isLive": false,
+   "account": {
+    "id": 20054,
+    "displayName": "Sample Creator",
+    "name": "designwithshoeb",
+    "url": "https://tube.tchncs.de/accounts/designwithshoeb",
+    "host": "tube.tchncs.de",
+    "avatars": []
+   },
+   "channel": {
+    "id": 1813,
+    "name": "cybereak",
+    "displayName": "Sample Creator",
+    "url": "https://tube.tchncs.de/video-channels/cybereak",
+    "host": "tube.tchncs.de",
+    "avatars": []
+   },
+   "comments": 0
+  },
+  {
+   "id": 62709,
+   "uuid": "05df2ca2-7d0a-4bb5-a90a-fc0202930fef",
+   "shortUUID": "1J49cZ9NvZy1sLmx8dJKDi",
+   "url": "https://peertube.opencloud.lu/videos/watch/05df2ca2-7d0a-4bb5-a90a-fc0202930fef",
+   "name": "LibreOffice 25.8: New features",
+   "category": {
+    "id": 15,
+    "label": "Science & Technology"
+   },
+   "licence": {
+    "id": 1,
+    "label": "Attribution"
+   },
+   "language": {
+    "id": "en",
+    "label": "English"
+   },
+   "privacy": {
+    "id": 1,
+    "label": "Public"
+   },
+   "nsfw": false,
+   "nsfwFlags": 0,
+   "nsfwSummary": null,
+   "truncatedDescription": "Sample description.",
+   "description": "Sample description.",
+   "isLocal": false,
+   "duration": 67,
+   "aspectRatio": 1.7778,
+   "views": 26560,
+   "viewers": 1,
+   "downloads": 0,
+   "likes": 3,
+   "dislikes": 0,
+   "thumbnailPath": "/lazy-static/thumbnails/8fabfa0b-5861-46fc-832f-4433ee1d8912.jpg",
+   "previewPath": "/lazy-static/thumbnails/5642bf5d-e58b-44a1-ab21-1a536dcc26e6.jpg",
+   "thumbnails": [
+    {
+     "height": 480,
+     "width": 850,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://framatube.org/lazy-static/thumbnails/5642bf5d-e58b-44a1-ab21-1a536dcc26e6.jpg"
+    },
+    {
+     "height": 157,
+     "width": 280,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://framatube.org/lazy-static/thumbnails/8fabfa0b-5861-46fc-832f-4433ee1d8912.jpg"
+    }
+   ],
+   "embedPath": "/videos/embed/1J49cZ9NvZy1sLmx8dJKDi",
+   "createdAt": "2025-08-19T11:45:14.100Z",
+   "updatedAt": "2026-10-05T11:34:43.908Z",
+   "publishedAt": "2025-08-19T11:45:14.100Z",
+   "originallyPublishedAt": "2025-08-18T22:00:00.000Z",
+   "isLive": false,
+   "account": {
+    "id": 8585,
+    "displayName": "Sample Creator",
+    "name": "paolo",
+    "url": "https://peertube.opencloud.lu/accounts/paolo",
+    "host": "peertube.opencloud.lu",
+    "avatars": [
+     {
+      "width": 1500,
+      "path": "/lazy-static/avatars/e00c9503-65a1-4220-a18b-dae25495d2c4.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/e00c9503-65a1-4220-a18b-dae25495d2c4.jpg",
+      "createdAt": "2026-05-25T11:00:59.942Z",
+      "updatedAt": "2026-05-26T05:52:44.878Z"
+     },
+     {
+      "width": 48,
+      "path": "/lazy-static/avatars/9659f99f-d01c-491d-96ff-c768b0a3728a.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/9659f99f-d01c-491d-96ff-c768b0a3728a.jpg",
+      "createdAt": "2026-05-25T11:01:00.085Z",
+      "updatedAt": "2026-05-25T12:13:51.216Z"
+     },
+     {
+      "width": 120,
+      "path": "/lazy-static/avatars/44f600a7-f564-4f32-87ec-74ae6af5633d.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/44f600a7-f564-4f32-87ec-74ae6af5633d.jpg",
+      "createdAt": "2026-05-25T11:00:59.931Z",
+      "updatedAt": "2026-05-25T11:49:20.434Z"
+     },
+     {
+      "width": 600,
+      "path": "/lazy-static/avatars/25526b6a-2afd-4f9e-afac-722cce856cd1.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/25526b6a-2afd-4f9e-afac-722cce856cd1.jpg",
+      "createdAt": "2026-05-25T11:00:59.962Z",
+      "updatedAt": "2026-06-29T06:08:29.792Z"
+     }
+    ]
+   },
+   "channel": {
+    "id": 586,
+    "name": "libreoffice",
+    "displayName": "Sample Creator",
+    "url": "https://peertube.opencloud.lu/video-channels/libreoffice",
+    "host": "peertube.opencloud.lu",
+    "avatars": [
+     {
+      "width": 120,
+      "path": "/lazy-static/avatars/d3f1a325-474c-47f6-9cac-6b6dae5721aa.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/d3f1a325-474c-47f6-9cac-6b6dae5721aa.jpg",
+      "createdAt": "2026-05-25T10:05:00.943Z",
+      "updatedAt": "2026-05-25T10:25:25.602Z"
+     },
+     {
+      "width": 1500,
+      "path": "/lazy-static/avatars/4497200d-b3cd-4417-a1f8-5e2657fc3a3e.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/4497200d-b3cd-4417-a1f8-5e2657fc3a3e.jpg",
+      "createdAt": "2026-05-25T10:05:01.014Z",
+      "updatedAt": "2026-05-27T06:05:02.035Z"
+     },
+     {
+      "width": 600,
+      "path": "/lazy-static/avatars/92fc2079-0845-4ba0-a7ec-99bdc7cbd47d.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/92fc2079-0845-4ba0-a7ec-99bdc7cbd47d.jpg",
+      "createdAt": "2026-05-25T10:05:01.149Z",
+      "updatedAt": "2026-08-13T06:15:56.656Z"
+     },
+     {
+      "width": 48,
+      "path": "/lazy-static/avatars/df76de7b-34f1-4bfd-b1aa-69fb9917ddb6.jpg",
+      "fileUrl": "https://framatube.org/lazy-static/avatars/df76de7b-34f1-4bfd-b1aa-69fb9917ddb6.jpg",
+      "createdAt": "2026-05-25T10:05:01.158Z",
+      "updatedAt": "2026-05-25T10:14:11.149Z"
+     }
+    ]
+   },
+   "comments": 0
+  }
+ ]
+}

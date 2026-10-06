@@ -1,0 +1,9 @@
+{
+ "error": {
+  "code": 403,
+  "message": "YouTube Data API v3 has not been used in project 123456789 before or it is disabled.",
+  "errors": [{"message": "YouTube Data API v3 has not been used in project 123456789 before or it is disabled.", "domain": "usageLimits", "reason": "accessNotConfigured", "extendedHelp": "https://console.developers.google.com"}],
+  "status": "PERMISSION_DENIED",
+  "details": [{"@type": "type.googleapis.com/google.rpc.ErrorInfo", "reason": "SERVICE_DISABLED", "domain": "googleapis.com", "metadata": {"service": "youtube.googleapis.com"}}]
+ }
+}

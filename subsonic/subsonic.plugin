@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-subsonic
+Name=Navidrome and Subsonic
+Description=Music from your Navidrome, Subsonic, Airsonic or gonic server
+Icon=network-server
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-jellyfin
+Name=Jellyfin
+Description=Music and videos from your Jellyfin server
+Icon=network-server
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music;dev.sinty.videos
+X-Singularity-Gettext-Domain=singularity-media-plugins

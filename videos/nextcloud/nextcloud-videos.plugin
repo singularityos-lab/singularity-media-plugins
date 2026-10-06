@@ -1,0 +1,8 @@
+[Plugin]
+Module=videos-nextcloud
+Name=Nextcloud Videos
+Description=The Videos folder of your Nextcloud
+Icon=folder-remote-symbolic
+X-Singularity-App=dev.sinty.videos
+X-Singularity-Host=dev.sinty.videos
+X-Singularity-Gettext-Domain=singularity-media-plugins

@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-spotify
+Name=Spotify Library and Devices
+Description=Your Spotify library and playback on your Spotify devices, signed in with your own developer client ID
+Icon=singularity-account-music-service
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

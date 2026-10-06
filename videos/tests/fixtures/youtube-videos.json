@@ -1,0 +1,15 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "x1",
+ "items": [
+  {"kind": "youtube#video", "etag": "e1", "id": "aqz-KE-bpKQ",
+   "snippet": {"publishedAt": "2014-11-10T14:05:55Z", "channelId": "UCSMOQeBJ2RAnuFungnQOxLg", "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+    "thumbnails": {"high": {"url": "https://i.ytimg.com/vi/aqz-KE-bpKQ/hqdefault.jpg", "width": 480, "height": 360}}, "channelTitle": "Blender"},
+   "contentDetails": {"duration": "PT10M35S", "dimension": "2d", "definition": "hd", "caption": "false", "licensedContent": false, "contentRating": {}, "projection": "rectangular"},
+   "status": {"uploadStatus": "processed", "privacyStatus": "public", "license": "youtube", "embeddable": true, "publicStatsViewable": true, "madeForKids": false}},
+  {"kind": "youtube#video", "etag": "e2", "id": "eRsGyueVLvQ",
+   "contentDetails": {"duration": "PT14M48S", "dimension": "2d", "definition": "hd", "caption": "true", "licensedContent": false, "contentRating": {}, "projection": "rectangular"},
+   "status": {"uploadStatus": "processed", "privacyStatus": "public", "license": "youtube", "embeddable": false, "publicStatsViewable": true, "madeForKids": false}}
+ ],
+ "pageInfo": {"totalResults": 2, "resultsPerPage": 2}
+}

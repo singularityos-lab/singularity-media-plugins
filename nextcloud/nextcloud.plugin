@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-nextcloud
+Name=Nextcloud Music
+Description=The Music folder of your Nextcloud
+Icon=folder-remote
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

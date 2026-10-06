@@ -1,0 +1,2 @@
+peertube-*.json, youtube-badkey.json, youtube-nokey.json, youtube-badtoken.json and youtube-oembed.json are real answers saved on 2026-10-05 (sepiasearch.org, framatube.org, spectra.video, www.googleapis.com, www.youtube.com/oembed), trimmed to two items.
+youtube-search.json, youtube-videos.json, youtube-quota.json, youtube-disabled.json and youtube-scope.json follow the response and error formats of the YouTube Data API v3 reference, since successful answers need an API key.

@@ -1,0 +1,6 @@
+[Plugin]
+Module=videos-test-embed
+Name=Test Player
+Description=A local fake web player for checking embedded playback
+X-Singularity-App=dev.sinty.videos
+X-Singularity-Host=dev.sinty.videos

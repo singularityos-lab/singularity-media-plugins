@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-lrclib
+Name=LRCLIB Lyrics
+Description=Synced song lyrics from LRCLIB
+Icon=singularity-lyrics
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

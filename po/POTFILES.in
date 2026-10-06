@@ -1,0 +1,12 @@
+dlna/dlna_source.vala
+jellyfin/jellyfin_source.vala
+listenbrainz/listenbrainz_source.vala
+lrclib/lrclib_source.vala
+musicbrainz/musicbrainz_source.vala
+nextcloud/nextcloud_source.vala
+spotify/spotify_source.vala
+subsonic/subsonic_source.vala
+videos/common/web_player.vala
+videos/youtube/youtube_source.vala
+videos/peertube/peertube_source.vala
+videos/nextcloud/nextcloud_videos_source.vala

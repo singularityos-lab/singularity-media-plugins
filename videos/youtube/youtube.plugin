@@ -1,0 +1,8 @@
+[Plugin]
+Module=videos-youtube
+Name=YouTube
+Description=Search YouTube and watch your subscriptions, playlists and liked videos in the official player
+Icon=video-x-generic-symbolic
+X-Singularity-App=dev.sinty.videos
+X-Singularity-Host=dev.sinty.videos
+X-Singularity-Gettext-Domain=singularity-media-plugins

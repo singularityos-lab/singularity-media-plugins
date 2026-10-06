@@ -1,0 +1,319 @@
+{
+ "total": 15247,
+ "data": [
+  {
+   "id": 167978,
+   "uuid": "da5463ca-fbc7-4311-948a-356594d5c70a",
+   "shortUUID": "sXGnj113k5GYzdzzYmr4cY",
+   "score": 1,
+   "createdAt": "2025-05-11T20:36:00.942Z",
+   "updatedAt": "2026-09-27T00:10:13.618Z",
+   "publishedAt": "2025-05-11T20:43:40.247Z",
+   "originallyPublishedAt": null,
+   "category": {
+    "id": 15,
+    "label": "Science & Technology"
+   },
+   "licence": {
+    "id": null,
+    "label": "Unknown"
+   },
+   "language": {
+    "id": "en",
+    "label": "English"
+   },
+   "privacy": {
+    "id": 1,
+    "label": "Public"
+   },
+   "name": "A Sample Talk About Linux",
+   "description": "Sample description.",
+   "truncatedDescription": "Sample description.",
+   "duration": 639,
+   "tags": [
+    "sample"
+   ],
+   "thumbnailPath": "/lazy-static/thumbnails/e6b77993-5595-4ccd-a881-d836ee6e1204.jpg",
+   "thumbnailUrl": "https://spectra.video/lazy-static/thumbnails/e6b77993-5595-4ccd-a881-d836ee6e1204.jpg",
+   "previewPath": "/lazy-static/thumbnails/40ba43ed-0d51-4d36-8906-29a9fa9a2407.jpg",
+   "previewUrl": "https://spectra.video/lazy-static/thumbnails/40ba43ed-0d51-4d36-8906-29a9fa9a2407.jpg",
+   "thumbnails": [
+    {
+     "height": 157,
+     "width": 280,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://spectra.video/lazy-static/thumbnails/e6b77993-5595-4ccd-a881-d836ee6e1204.jpg"
+    },
+    {
+     "height": 480,
+     "width": 850,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://spectra.video/lazy-static/thumbnails/40ba43ed-0d51-4d36-8906-29a9fa9a2407.jpg"
+    }
+   ],
+   "embedPath": "/videos/embed/sXGnj113k5GYzdzzYmr4cY",
+   "embedUrl": "https://spectra.video/videos/embed/sXGnj113k5GYzdzzYmr4cY",
+   "url": "https://spectra.video/videos/watch/da5463ca-fbc7-4311-948a-356594d5c70a",
+   "isLocal": false,
+   "views": 1016,
+   "viewers": 0,
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 3,
+   "isLive": false,
+   "nsfw": false,
+   "nsfwFlags": 0,
+   "nsfwSummary": null,
+   "aspectRatio": 1.7778,
+   "account": {
+    "id": 276396,
+    "name": "trafotin.com",
+    "displayName": "Sample Creator",
+    "url": "https://spectra.video/accounts/trafotin.com",
+    "host": "spectra.video",
+    "avatars": [
+     {
+      "url": "https://spectra.video/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "path": "/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "width": 48,
+      "height": 48,
+      "createdAt": "2024-12-05T21:22:15.958Z",
+      "updatedAt": "2024-12-05T21:22:15.958Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "path": "/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "width": 120,
+      "height": 120,
+      "createdAt": "2024-12-05T21:22:15.957Z",
+      "updatedAt": "2024-12-05T21:22:15.957Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "path": "/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "width": 600,
+      "height": 600,
+      "createdAt": "2024-12-05T21:22:15.956Z",
+      "updatedAt": "2024-12-05T21:22:15.956Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "path": "/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "width": 1500,
+      "height": 1500,
+      "createdAt": "2024-12-05T21:22:15.954Z",
+      "updatedAt": "2024-12-05T21:22:15.954Z"
+     }
+    ]
+   },
+   "channel": {
+    "id": 3940,
+    "name": "trafotin",
+    "displayName": "Sample Creator",
+    "url": "https://spectra.video/video-channels/trafotin",
+    "host": "spectra.video",
+    "avatars": [
+     {
+      "url": "https://spectra.video/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "path": "/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "width": 48,
+      "height": 48,
+      "createdAt": "2024-12-05T21:21:59.509Z",
+      "updatedAt": "2024-12-05T21:21:59.509Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "path": "/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "width": 120,
+      "height": 120,
+      "createdAt": "2024-12-05T21:21:59.508Z",
+      "updatedAt": "2024-12-05T21:21:59.508Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "path": "/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "width": 600,
+      "height": 600,
+      "createdAt": "2024-12-05T21:21:59.506Z",
+      "updatedAt": "2024-12-05T21:21:59.506Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "path": "/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "width": 1500,
+      "height": 1500,
+      "createdAt": "2024-12-05T21:21:59.504Z",
+      "updatedAt": "2024-12-05T21:21:59.504Z"
+     }
+    ]
+   },
+   "hotScore": 7.461605025551406e-05,
+   "rawHotScore": 6786.29023746125
+  },
+  {
+   "id": 125138,
+   "uuid": "013473df-fed4-4d26-a429-81f361df6dee",
+   "shortUUID": "19CvNFGKB1fFP7mRH756bo",
+   "score": 1,
+   "createdAt": "2024-10-06T18:18:52.428Z",
+   "updatedAt": "2026-09-26T11:37:41.781Z",
+   "publishedAt": "2024-10-06T19:05:09.355Z",
+   "originallyPublishedAt": null,
+   "category": {
+    "id": 15,
+    "label": "Science & Technology"
+   },
+   "licence": {
+    "id": 9,
+    "label": "All Rights Reserved"
+   },
+   "language": {
+    "id": "en",
+    "label": "English"
+   },
+   "privacy": {
+    "id": 1,
+    "label": "Public"
+   },
+   "name": "We've Been Installing Apps on Linux WRONG!",
+   "description": "Sample description.",
+   "truncatedDescription": "Sample description.",
+   "duration": 840,
+   "tags": [
+    "sample"
+   ],
+   "thumbnailPath": "/lazy-static/thumbnails/deda302d-0048-4528-84fb-26510c48a093.jpg",
+   "thumbnailUrl": "https://spectra.video/lazy-static/thumbnails/deda302d-0048-4528-84fb-26510c48a093.jpg",
+   "previewPath": "/lazy-static/thumbnails/adfe403d-3d75-4a17-be8f-b24906368bbd.jpg",
+   "previewUrl": "https://spectra.video/lazy-static/thumbnails/adfe403d-3d75-4a17-be8f-b24906368bbd.jpg",
+   "thumbnails": [
+    {
+     "height": 157,
+     "width": 280,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://spectra.video/lazy-static/thumbnails/deda302d-0048-4528-84fb-26510c48a093.jpg"
+    },
+    {
+     "height": 480,
+     "width": 850,
+     "aspectRatio": "16:9",
+     "fileUrl": "https://spectra.video/lazy-static/thumbnails/adfe403d-3d75-4a17-be8f-b24906368bbd.jpg"
+    }
+   ],
+   "embedPath": "/videos/embed/19CvNFGKB1fFP7mRH756bo",
+   "embedUrl": "https://spectra.video/videos/embed/19CvNFGKB1fFP7mRH756bo",
+   "url": "https://spectra.video/videos/watch/013473df-fed4-4d26-a429-81f361df6dee",
+   "isLocal": false,
+   "views": 744,
+   "viewers": 0,
+   "likes": 6,
+   "dislikes": 0,
+   "comments": 0,
+   "isLive": false,
+   "nsfw": false,
+   "nsfwFlags": 0,
+   "nsfwSummary": null,
+   "aspectRatio": 1.7778,
+   "account": {
+    "id": 276396,
+    "name": "trafotin.com",
+    "displayName": "Sample Creator",
+    "url": "https://spectra.video/accounts/trafotin.com",
+    "host": "spectra.video",
+    "avatars": [
+     {
+      "url": "https://spectra.video/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "path": "/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/e664482e-4d2a-415d-b9bd-e8539d10037e.png",
+      "width": 48,
+      "height": 48,
+      "createdAt": "2024-12-05T21:22:15.958Z",
+      "updatedAt": "2024-12-05T21:22:15.958Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "path": "/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/fdb8db5e-d408-4d81-aa9b-25ac51153bb5.png",
+      "width": 120,
+      "height": 120,
+      "createdAt": "2024-12-05T21:22:15.957Z",
+      "updatedAt": "2024-12-05T21:22:15.957Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "path": "/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/df633951-6419-43ee-a05e-6994641c3f2e.png",
+      "width": 600,
+      "height": 600,
+      "createdAt": "2024-12-05T21:22:15.956Z",
+      "updatedAt": "2024-12-05T21:22:15.956Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "path": "/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/a1ac6835-ac65-4718-bbf9-efe7559aa122.png",
+      "width": 1500,
+      "height": 1500,
+      "createdAt": "2024-12-05T21:22:15.954Z",
+      "updatedAt": "2024-12-05T21:22:15.954Z"
+     }
+    ]
+   },
+   "channel": {
+    "id": 3940,
+    "name": "trafotin",
+    "displayName": "Sample Creator",
+    "url": "https://spectra.video/video-channels/trafotin",
+    "host": "spectra.video",
+    "avatars": [
+     {
+      "url": "https://spectra.video/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "path": "/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/11a83f70-7cc8-4f07-a8c1-d66268147a3e.png",
+      "width": 48,
+      "height": 48,
+      "createdAt": "2024-12-05T21:21:59.509Z",
+      "updatedAt": "2024-12-05T21:21:59.509Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "path": "/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/37fb9cd4-f5f3-4b6e-86db-ff27aca4f456.png",
+      "width": 120,
+      "height": 120,
+      "createdAt": "2024-12-05T21:21:59.508Z",
+      "updatedAt": "2024-12-05T21:21:59.508Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "path": "/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/af72e49d-9c87-48bb-b668-819946a4a482.png",
+      "width": 600,
+      "height": 600,
+      "createdAt": "2024-12-05T21:21:59.506Z",
+      "updatedAt": "2024-12-05T21:21:59.506Z"
+     },
+     {
+      "url": "https://spectra.video/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "path": "/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "fileUrl": "https://spectra.video/lazy-static/avatars/2c211e95-e061-4a13-9155-596eaef91db6.png",
+      "width": 1500,
+      "height": 1500,
+      "createdAt": "2024-12-05T21:21:59.504Z",
+      "updatedAt": "2024-12-05T21:21:59.504Z"
+     }
+    ]
+   },
+   "hotScore": 2.998247857979986e-11,
+   "rawHotScore": 6349.036799359189
+  }
+ ]
+}

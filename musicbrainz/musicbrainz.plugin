@@ -1,0 +1,8 @@
+[Plugin]
+Module=media-musicbrainz
+Name=MusicBrainz
+Description=Missing album covers and song details from MusicBrainz and the Cover Art Archive
+Icon=media-optical
+X-Singularity-App=dev.sinty.music
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins

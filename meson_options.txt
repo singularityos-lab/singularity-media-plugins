@@ -1,0 +1,2 @@
+option('embed', type: 'feature', value: 'auto', description: 'Embedded web players for video services (WebKitGTK 6)')
+option('librespot', type: 'feature', value: 'auto', description: 'Build the librespot player that plays Spotify inside Music (needs cargo)')

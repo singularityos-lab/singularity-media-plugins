@@ -1,0 +1,7 @@
+[Plugin]
+Module=media-librespot
+Name=Spotify Player in Music (Unofficial)
+Description=Plays Spotify inside Music with librespot, an unofficial player that is not endorsed by Spotify and uses your Spotify Premium account. Needs the librespot program: your distribution's librespot package, or cargo install librespot.
+Icon=singularity-account-music-service
+X-Singularity-Host=dev.sinty.music
+X-Singularity-Gettext-Domain=singularity-media-plugins
