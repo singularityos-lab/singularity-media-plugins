@@ -336,7 +336,8 @@ namespace Singularity.MediaPlugins {
             var it = new MediaItem (ID, AccountLinks.node (s.id, e.container ? "c" : "i", e.id), kind, e.title);
             it.artist = e.artist;
             it.album = e.album;
-            it.subtitle = e.container ? (e.child_count >= 0 ? ngettext ("%d item", "%d items", e.child_count).printf (e.child_count) : e.artist) : e.artist;
+            if (e.container && e.child_count >= 0) it.subtitle = ngettext ("%d item", "%d items", e.child_count).printf (e.child_count);
+            else it.subtitle = e.artist;
             it.track_number = e.track;
             it.duration_ms = e.duration_ms;
             it.image_url = e.art;
