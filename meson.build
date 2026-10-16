@@ -25,7 +25,8 @@ if not meson.is_subproject() and libsingularity_dep.type_name() == 'internal'
   add_project_arguments(['--vapidir=' + libsingularity_vapi_dir], language: 'vala')
 endif
 
-plugin_deps = [gee_dep, gio_dep, json_dep, soup_dep, peas_dep, gtk_dep, libsingularity_dep]
+m_dep = meson.get_compiler('c').find_library('m', required: false)
+plugin_deps = [gee_dep, gio_dep, json_dep, soup_dep, peas_dep, gtk_dep, m_dep, libsingularity_dep]
 app_plugins_dir = get_option('libdir') / 'singularity' / 'app-plugins'
 
 subdir('jellyfin')
